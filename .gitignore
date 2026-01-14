@@ -1,0 +1,12 @@
+# Data
+data/BTC-USDT-L2orderbook-400lv-2025-08-28.parquet
+data/processed_data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
